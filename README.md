@@ -1,2 +1,2 @@
-# NFT-MarketPlace
-This is a comprehensive NFT marketplace that allows users to list, buy, sell, and manage their NFT collections.
+## NFT-MarketPlace
+I developed a Simple NFT Marketplace, a digital platform that allows users to easily list, buy, sell, and fetch NFTs (Non-Fungible Tokens). NFTs are unique digital assets, such as digital art or collectibles, and my project provided a user-friendly interface for these actions. Users could list their NFTs for sale, browse and buy NFTs from other creators, and seamlessly access their NFT collections. This project highlighted my skills in blockchain technology and web development, creating a user-centered experience for the NFT community.
